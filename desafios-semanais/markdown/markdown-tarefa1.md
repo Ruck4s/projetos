@@ -92,3 +92,4 @@ consulte: https://cloud.google.com/storage/docs/discover-object-storage-console?
 
 *Futuramente um guia para a criação de um bucket no console do GCP será desenvolvido para assim ter ambas as opções de criação.*
 
+![Google Cloud Platform](https://raw.githubusercontent.com/Ruck4s/projetos/main/desafios-semanais/markdown/Logo%20GCP.png)
