@@ -4,7 +4,7 @@ A criação pode ser feita de duas maneiras:
 - Via **linha de comando**
 - Via **console** <br>
 
-Porém, nesse arquivo será abordada somente via ***console***.
+Porém, nesse arquivo será abordada somente via ***linha de comando***.
 
 ### 1º Passo: Instalar o SDK do Google Cloud CLI em seu terminal Debian/Ubuntu.
 ------
